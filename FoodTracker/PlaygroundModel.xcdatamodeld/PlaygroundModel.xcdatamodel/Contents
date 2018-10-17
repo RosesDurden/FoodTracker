@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Playgrounds" representedClassName="Playgrounds" syncable="YES" codeGenerationType="class">
+        <attribute name="codeDepartement" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="equipementEclairage" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="equipementGpsX" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="equipementGpsY" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="libelleCommune" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="libelleDepartement" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="libelleNature" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="libelleNatureSol" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nomInsee" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reputation" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Playgrounds" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
+</model>
